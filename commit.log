@@ -12,3 +12,4 @@
 2025-03-29 Improve responsive layout on mobile
 2025-03-29 Add TypeScript types to components
 2025-03-29 Fix PostgreSQL connection issue in dev
+2025-03-29 Improve loading spinner UX

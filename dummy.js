@@ -12,3 +12,4 @@
 // Improve responsive layout on mobile
 // Add TypeScript types to components
 // Fix PostgreSQL connection issue in dev
+// Improve loading spinner UX
