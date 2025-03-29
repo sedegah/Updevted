@@ -6,3 +6,4 @@
 // Implement GitHub trending repos integration
 // Add unit tests for roadmap component
 // Setup Render deployment blueprint
+// Add fade-in animations for content tiles
