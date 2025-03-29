@@ -10,3 +10,4 @@
 2025-03-29 Refine dark mode contrast ratios
 2025-03-29 Refactor roadmap component structure
 2025-03-29 Improve responsive layout on mobile
+2025-03-29 Add TypeScript types to components

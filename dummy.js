@@ -10,3 +10,4 @@
 // Refine dark mode contrast ratios
 // Refactor roadmap component structure
 // Improve responsive layout on mobile
+// Add TypeScript types to components
