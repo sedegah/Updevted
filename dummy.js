@@ -9,3 +9,4 @@
 // Add fade-in animations for content tiles
 // Refine dark mode contrast ratios
 // Refactor roadmap component structure
+// Improve responsive layout on mobile
