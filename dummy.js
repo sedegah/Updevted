@@ -11,3 +11,4 @@
 // Refactor roadmap component structure
 // Improve responsive layout on mobile
 // Add TypeScript types to components
+// Fix PostgreSQL connection issue in dev
