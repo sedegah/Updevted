@@ -18,3 +18,4 @@
 // Refactor fetch logic for tech news
 // Add TypeScript types to components
 // Setup Render deployment blueprint
+// Refine dark mode contrast ratios
