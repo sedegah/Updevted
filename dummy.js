@@ -16,3 +16,4 @@
 // Update README with local dev steps
 // Add custom 404 page
 // Refactor fetch logic for tech news
+// Add TypeScript types to components
