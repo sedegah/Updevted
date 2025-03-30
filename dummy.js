@@ -13,3 +13,4 @@
 // Add TypeScript types to components
 // Fix PostgreSQL connection issue in dev
 // Improve loading spinner UX
+// Update README with local dev steps
