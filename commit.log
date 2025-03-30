@@ -14,3 +14,4 @@
 2025-03-29 Fix PostgreSQL connection issue in dev
 2025-03-29 Improve loading spinner UX
 2025-03-30 Update README with local dev steps
+2025-03-30 Add custom 404 page

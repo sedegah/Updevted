@@ -14,3 +14,4 @@
 // Fix PostgreSQL connection issue in dev
 // Improve loading spinner UX
 // Update README with local dev steps
+// Add custom 404 page
