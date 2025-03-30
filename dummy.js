@@ -15,3 +15,4 @@
 // Improve loading spinner UX
 // Update README with local dev steps
 // Add custom 404 page
+// Refactor fetch logic for tech news
