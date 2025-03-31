@@ -25,3 +25,4 @@
 // Add custom 404 page
 // Enhance error handling for API fetches
 // Add fade-in animations for content tiles
+// Refactor roadmap component structure
