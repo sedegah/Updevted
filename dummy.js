@@ -31,3 +31,4 @@
 // Improve responsive layout on mobile
 // Add custom 404 page
 // Implement GitHub trending repos integration
+// Implement GitHub trending repos integration
