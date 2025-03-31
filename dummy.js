@@ -26,3 +26,4 @@
 // Enhance error handling for API fetches
 // Add fade-in animations for content tiles
 // Refactor roadmap component structure
+// Add TypeScript types to components
