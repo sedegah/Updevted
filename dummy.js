@@ -28,3 +28,4 @@
 // Refactor roadmap component structure
 // Add TypeScript types to components
 // Add fade-in animations for content tiles
+// Improve responsive layout on mobile
