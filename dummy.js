@@ -35,3 +35,4 @@
 // Refactor fetch logic for tech news
 // Add TypeScript types to components
 // Add custom 404 page
+// Enhance AI assistant response quality
