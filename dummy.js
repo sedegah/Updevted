@@ -32,3 +32,4 @@
 // Add custom 404 page
 // Implement GitHub trending repos integration
 // Implement GitHub trending repos integration
+// Refactor fetch logic for tech news
