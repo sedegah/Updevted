@@ -34,3 +34,4 @@
 // Implement GitHub trending repos integration
 // Refactor fetch logic for tech news
 // Add TypeScript types to components
+// Add custom 404 page
