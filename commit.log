@@ -33,3 +33,4 @@
 2025-03-31 Implement GitHub trending repos integration
 2025-03-31 Implement GitHub trending repos integration
 2025-04-01 Refactor fetch logic for tech news
+2025-04-01 Add TypeScript types to components
