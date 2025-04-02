@@ -42,3 +42,4 @@
 // Enhance AI assistant response quality
 // Test offline support with service workers
 // Refactor fetch logic for tech news
+// Update README with local dev steps
