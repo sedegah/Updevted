@@ -48,3 +48,4 @@
 // Improve responsive layout on mobile
 // Test offline support with service workers
 // Test offline support with service workers
+// Add TypeScript types to components
