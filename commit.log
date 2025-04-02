@@ -43,3 +43,4 @@
 2025-04-01 Test offline support with service workers
 2025-04-02 Refactor fetch logic for tech news
 2025-04-02 Update README with local dev steps
+2025-04-02 Enhance error handling for API fetches
