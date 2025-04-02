@@ -45,3 +45,4 @@
 // Update README with local dev steps
 // Enhance error handling for API fetches
 // Refactor roadmap component structure
+// Improve responsive layout on mobile
