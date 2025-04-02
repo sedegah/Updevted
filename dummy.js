@@ -49,3 +49,4 @@
 // Test offline support with service workers
 // Test offline support with service workers
 // Add TypeScript types to components
+// Add fade-in animations for content tiles
