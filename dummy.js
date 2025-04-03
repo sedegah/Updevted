@@ -57,3 +57,4 @@
 // Add custom 404 page
 // Update README with local dev steps
 // Enhance error handling for API fetches
+// Enhance error handling for API fetches
