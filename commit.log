@@ -56,3 +56,4 @@
 2025-04-03 Improve responsive layout on mobile
 2025-04-03 Add custom 404 page
 2025-04-03 Update README with local dev steps
+2025-04-03 Enhance error handling for API fetches
