@@ -54,3 +54,4 @@
 // Add custom 404 page
 // Add fade-in animations for content tiles
 // Improve responsive layout on mobile
+// Add custom 404 page
