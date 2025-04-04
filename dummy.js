@@ -60,3 +60,4 @@
 // Enhance error handling for API fetches
 // Refactor fetch logic for tech news
 // Enhance error handling for API fetches
+// Test offline support with service workers
