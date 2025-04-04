@@ -61,3 +61,4 @@
 // Refactor fetch logic for tech news
 // Enhance error handling for API fetches
 // Test offline support with service workers
+// Add fade-in animations for content tiles
