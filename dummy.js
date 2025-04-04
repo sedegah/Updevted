@@ -62,3 +62,4 @@
 // Enhance error handling for API fetches
 // Test offline support with service workers
 // Add fade-in animations for content tiles
+// Setup Render deployment blueprint
