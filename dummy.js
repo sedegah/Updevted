@@ -75,3 +75,4 @@
 // Test offline support with service workers
 // Improve GitHub trending repo UI
 // Fix PostgreSQL connection issue in dev
+// Add TypeScript types to components
