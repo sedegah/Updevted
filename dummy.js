@@ -71,3 +71,4 @@
 // Refactor fetch logic for tech news
 // Add custom 404 page
 // Design bookmark system state flow
+// Add fade-in animations for content tiles
