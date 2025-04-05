@@ -69,3 +69,4 @@
 // Implement GitHub trending repos integration
 // Improve loading spinner UX
 // Refactor fetch logic for tech news
+// Add custom 404 page
