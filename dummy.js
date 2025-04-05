@@ -74,3 +74,4 @@
 // Add fade-in animations for content tiles
 // Test offline support with service workers
 // Improve GitHub trending repo UI
+// Fix PostgreSQL connection issue in dev

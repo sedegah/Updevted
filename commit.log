@@ -74,3 +74,4 @@
 2025-04-05 Add fade-in animations for content tiles
 2025-04-05 Test offline support with service workers
 2025-04-05 Improve GitHub trending repo UI
+2025-04-05 Fix PostgreSQL connection issue in dev
