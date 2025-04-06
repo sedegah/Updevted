@@ -76,3 +76,4 @@
 2025-04-05 Improve GitHub trending repo UI
 2025-04-05 Fix PostgreSQL connection issue in dev
 2025-04-05 Add TypeScript types to components
+2025-04-06 Add custom 404 page
