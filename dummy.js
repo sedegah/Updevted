@@ -81,3 +81,4 @@
 // Optimize Tailwind utility classes
 // Enhance error handling for API fetches
 // Fix PostgreSQL connection issue in dev
+// Setup Render deployment blueprint
