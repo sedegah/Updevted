@@ -79,3 +79,4 @@
 // Add custom 404 page
 // Add unit tests for roadmap component
 // Optimize Tailwind utility classes
+// Enhance error handling for API fetches
