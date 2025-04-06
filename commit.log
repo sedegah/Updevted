@@ -78,3 +78,4 @@
 2025-04-05 Add TypeScript types to components
 2025-04-06 Add custom 404 page
 2025-04-06 Add unit tests for roadmap component
+2025-04-06 Optimize Tailwind utility classes

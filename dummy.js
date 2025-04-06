@@ -78,3 +78,4 @@
 // Add TypeScript types to components
 // Add custom 404 page
 // Add unit tests for roadmap component
+// Optimize Tailwind utility classes
