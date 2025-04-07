@@ -86,3 +86,4 @@
 // Fix PostgreSQL connection issue in dev
 // Add TypeScript types to components
 // Optimize Tailwind utility classes
+// Enhance error handling for API fetches
