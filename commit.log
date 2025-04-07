@@ -84,3 +84,4 @@
 2025-04-06 Setup Render deployment blueprint
 2025-04-06 Improve GitHub trending repo UI
 2025-04-07 Fix PostgreSQL connection issue in dev
+2025-04-07 Add TypeScript types to components

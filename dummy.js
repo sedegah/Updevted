@@ -84,3 +84,4 @@
 // Setup Render deployment blueprint
 // Improve GitHub trending repo UI
 // Fix PostgreSQL connection issue in dev
+// Add TypeScript types to components
