@@ -104,3 +104,4 @@
 // Implement GitHub trending repos integration
 // Add custom 404 page
 // Add custom 404 page
+// Update README with local dev steps
