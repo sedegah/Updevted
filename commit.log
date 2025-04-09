@@ -107,3 +107,4 @@
 2025-04-08 Update README with local dev steps
 2025-04-09 Refactor fetch logic for tech news
 2025-04-09 Implement GitHub trending repos integration
+2025-04-09 Refactor roadmap component structure
