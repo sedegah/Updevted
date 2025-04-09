@@ -111,3 +111,4 @@
 // Add fade-in animations for content tiles
 // Refactor roadmap component structure
 // Improve loading spinner UX
+// Refactor fetch logic for tech news
