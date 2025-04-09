@@ -105,3 +105,4 @@
 // Add custom 404 page
 // Add custom 404 page
 // Update README with local dev steps
+// Refactor fetch logic for tech news
