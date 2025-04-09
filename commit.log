@@ -114,3 +114,4 @@
 2025-04-09 Refactor fetch logic for tech news
 2025-04-09 Integrate Groq API for summarization
 2025-04-09 Add TypeScript types to components
+2025-04-09 Test offline support with service workers
