@@ -112,3 +112,4 @@
 // Refactor roadmap component structure
 // Improve loading spinner UX
 // Refactor fetch logic for tech news
+// Integrate Groq API for summarization
