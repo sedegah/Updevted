@@ -106,3 +106,4 @@
 // Add custom 404 page
 // Update README with local dev steps
 // Refactor fetch logic for tech news
+// Implement GitHub trending repos integration
