@@ -124,3 +124,4 @@
 // Improve responsive layout on mobile
 // Enhance AI assistant response quality
 // Integrate Groq API for summarization
+// Update README with local dev steps
