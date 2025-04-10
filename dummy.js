@@ -125,3 +125,4 @@
 // Enhance AI assistant response quality
 // Integrate Groq API for summarization
 // Update README with local dev steps
+// Add fade-in animations for content tiles
