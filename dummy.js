@@ -116,3 +116,4 @@
 // Add TypeScript types to components
 // Test offline support with service workers
 // Add unit tests for roadmap component
+// Improve responsive layout on mobile
