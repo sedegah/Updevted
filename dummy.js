@@ -123,3 +123,4 @@
 // Improve GitHub trending repo UI
 // Improve responsive layout on mobile
 // Enhance AI assistant response quality
+// Integrate Groq API for summarization
