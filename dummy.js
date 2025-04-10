@@ -119,3 +119,4 @@
 // Improve responsive layout on mobile
 // Integrate Groq API for summarization
 // Integrate Groq API for summarization
+// Improve responsive layout on mobile
