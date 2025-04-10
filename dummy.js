@@ -117,3 +117,4 @@
 // Test offline support with service workers
 // Add unit tests for roadmap component
 // Improve responsive layout on mobile
+// Integrate Groq API for summarization
