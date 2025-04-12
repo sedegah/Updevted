@@ -141,3 +141,4 @@
 2025-04-12 Add TypeScript types to components
 2025-04-12 Add unit tests for roadmap component
 2025-04-12 Refactor roadmap component structure
+2025-04-12 Fix PostgreSQL connection issue in dev
