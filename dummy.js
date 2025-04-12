@@ -142,3 +142,4 @@
 // Add unit tests for roadmap component
 // Refactor roadmap component structure
 // Fix PostgreSQL connection issue in dev
+// Enhance error handling for API fetches
