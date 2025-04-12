@@ -139,3 +139,4 @@
 2025-04-12 Improve responsive layout on mobile
 2025-04-12 Test offline support with service workers
 2025-04-12 Add TypeScript types to components
+2025-04-12 Add unit tests for roadmap component
