@@ -140,3 +140,4 @@
 // Test offline support with service workers
 // Add TypeScript types to components
 // Add unit tests for roadmap component
+// Refactor roadmap component structure
