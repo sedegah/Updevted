@@ -149,3 +149,4 @@
 2025-04-13 Enhance error handling for API fetches
 2025-04-13 Improve responsive layout on mobile
 2025-04-13 Add unit tests for roadmap component
+2025-04-13 Add custom 404 page
