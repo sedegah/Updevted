@@ -153,3 +153,4 @@
 2025-04-13 Add custom 404 page
 2025-04-14 Improve responsive layout on mobile
 2025-04-14 Add custom 404 page
+2025-04-14 Fix PostgreSQL connection issue in dev
