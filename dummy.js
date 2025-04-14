@@ -159,3 +159,4 @@
 // Update README with local dev steps
 // Add custom 404 page
 // Enhance error handling for API fetches
+// Design bookmark system state flow
