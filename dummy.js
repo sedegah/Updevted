@@ -156,3 +156,4 @@
 // Fix PostgreSQL connection issue in dev
 // Enhance AI assistant response quality
 // Refine dark mode contrast ratios
+// Update README with local dev steps
