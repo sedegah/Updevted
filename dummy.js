@@ -169,3 +169,4 @@
 // Test offline support with service workers
 // Enhance AI assistant response quality
 // Optimize Tailwind utility classes
+// Fix PostgreSQL connection issue in dev
