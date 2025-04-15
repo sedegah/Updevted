@@ -170,3 +170,4 @@
 // Enhance AI assistant response quality
 // Optimize Tailwind utility classes
 // Fix PostgreSQL connection issue in dev
+// Improve responsive layout on mobile
