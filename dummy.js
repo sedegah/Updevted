@@ -175,3 +175,4 @@
 // Improve GitHub trending repo UI
 // Add TypeScript types to components
 // Improve GitHub trending repo UI
+// Add custom 404 page
