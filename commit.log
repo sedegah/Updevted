@@ -185,3 +185,4 @@
 2025-04-17 Improve loading spinner UX
 2025-04-17 Refactor roadmap component structure
 2025-04-17 Design bookmark system state flow
+2025-04-17 Add unit tests for roadmap component
