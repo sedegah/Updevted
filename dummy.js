@@ -189,3 +189,4 @@
 // Enhance error handling for API fetches
 // Improve loading spinner UX
 // Add TypeScript types to components
+// Fix PostgreSQL connection issue in dev
