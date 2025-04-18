@@ -192,3 +192,4 @@
 // Fix PostgreSQL connection issue in dev
 // Setup Render deployment blueprint
 // Setup Render deployment blueprint
+// Improve responsive layout on mobile
