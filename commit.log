@@ -200,3 +200,4 @@
 2025-04-19 Add TypeScript types to components
 2025-04-19 Improve loading spinner UX
 2025-04-19 Improve responsive layout on mobile
+2025-04-19 Refactor fetch logic for tech news

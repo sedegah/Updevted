@@ -200,3 +200,4 @@
 // Add TypeScript types to components
 // Improve loading spinner UX
 // Improve responsive layout on mobile
+// Refactor fetch logic for tech news
