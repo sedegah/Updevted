@@ -199,3 +199,4 @@
 // Improve responsive layout on mobile
 // Add TypeScript types to components
 // Improve loading spinner UX
+// Improve responsive layout on mobile
