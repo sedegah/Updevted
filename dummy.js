@@ -195,3 +195,4 @@
 // Improve responsive layout on mobile
 // Improve GitHub trending repo UI
 // Improve loading spinner UX
+// Enhance error handling for API fetches
