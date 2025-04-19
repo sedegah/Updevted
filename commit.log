@@ -201,3 +201,4 @@
 2025-04-19 Improve loading spinner UX
 2025-04-19 Improve responsive layout on mobile
 2025-04-19 Refactor fetch logic for tech news
+2025-04-19 Add unit tests for roadmap component
