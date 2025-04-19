@@ -198,3 +198,4 @@
 // Enhance error handling for API fetches
 // Improve responsive layout on mobile
 // Add TypeScript types to components
+// Improve loading spinner UX
