@@ -207,3 +207,4 @@
 // Refactor fetch logic for tech news
 // Refine dark mode contrast ratios
 // Refactor fetch logic for tech news
+// Add custom 404 page
