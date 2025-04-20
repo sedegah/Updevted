@@ -205,3 +205,4 @@
 // Refactor fetch logic for tech news
 // Refactor roadmap component structure
 // Refactor fetch logic for tech news
+// Refine dark mode contrast ratios
