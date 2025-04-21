@@ -213,3 +213,4 @@
 // Integrate Groq API for summarization
 // Design bookmark system state flow
 // Enhance error handling for API fetches
+// Optimize Tailwind utility classes
