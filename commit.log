@@ -220,3 +220,4 @@
 2025-04-22 Add fade-in animations for content tiles
 2025-04-22 Implement GitHub trending repos integration
 2025-04-22 Improve GitHub trending repo UI
+2025-04-22 Test offline support with service workers
