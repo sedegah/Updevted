@@ -224,3 +224,4 @@
 // Refine dark mode contrast ratios
 // Add custom 404 page
 // Add unit tests for roadmap component
+// Refactor fetch logic for tech news

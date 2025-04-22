@@ -224,3 +224,4 @@
 2025-04-22 Refine dark mode contrast ratios
 2025-04-22 Add custom 404 page
 2025-04-22 Add unit tests for roadmap component
+2025-04-22 Refactor fetch logic for tech news
