@@ -216,3 +216,4 @@
 // Optimize Tailwind utility classes
 // Refactor fetch logic for tech news
 // Setup Render deployment blueprint
+// Add custom 404 page
