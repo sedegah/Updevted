@@ -233,3 +233,4 @@
 // Setup Render deployment blueprint
 // Design bookmark system state flow
 // Update README with local dev steps
+// Fix PostgreSQL connection issue in dev
