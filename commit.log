@@ -225,3 +225,4 @@
 2025-04-22 Add custom 404 page
 2025-04-22 Add unit tests for roadmap component
 2025-04-22 Refactor fetch logic for tech news
+2025-04-23 Improve loading spinner UX
