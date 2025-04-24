@@ -239,3 +239,4 @@
 // Refactor roadmap component structure
 // Setup Render deployment blueprint
 // Integrate Groq API for summarization
+// Add TypeScript types to components
