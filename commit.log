@@ -235,3 +235,4 @@
 2025-04-23 Update README with local dev steps
 2025-04-23 Fix PostgreSQL connection issue in dev
 2025-04-24 Add unit tests for roadmap component
+2025-04-24 Test offline support with service workers
