@@ -238,3 +238,4 @@
 // Test offline support with service workers
 // Refactor roadmap component structure
 // Setup Render deployment blueprint
+// Integrate Groq API for summarization
