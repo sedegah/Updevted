@@ -240,3 +240,4 @@
 // Setup Render deployment blueprint
 // Integrate Groq API for summarization
 // Add TypeScript types to components
+// Implement GitHub trending repos integration
