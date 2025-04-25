@@ -241,3 +241,4 @@
 // Integrate Groq API for summarization
 // Add TypeScript types to components
 // Implement GitHub trending repos integration
+// Add fade-in animations for content tiles
