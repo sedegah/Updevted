@@ -249,3 +249,4 @@
 2025-04-25 Improve GitHub trending repo UI
 2025-04-25 Design bookmark system state flow
 2025-04-25 Fix PostgreSQL connection issue in dev
+2025-04-26 Add fade-in animations for content tiles
