@@ -264,3 +264,4 @@
 // Improve responsive layout on mobile
 // Implement GitHub trending repos integration
 // Optimize Tailwind utility classes
+// Test offline support with service workers
