@@ -257,3 +257,4 @@
 2025-04-26 Add custom 404 page
 2025-04-27 Implement GitHub trending repos integration
 2025-04-27 Fix PostgreSQL connection issue in dev
+2025-04-27 Refactor roadmap component structure
