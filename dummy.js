@@ -260,3 +260,4 @@
 // Refactor roadmap component structure
 // Refactor roadmap component structure
 // Add custom 404 page
+// Improve responsive layout on mobile
