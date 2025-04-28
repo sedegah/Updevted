@@ -270,3 +270,4 @@
 2025-04-28 Optimize Tailwind utility classes
 2025-04-28 Add fade-in animations for content tiles
 2025-04-28 Add custom 404 page
+2025-04-28 Add unit tests for roadmap component
