@@ -283,3 +283,4 @@
 2025-04-29 Improve responsive layout on mobile
 2025-04-29 Fix PostgreSQL connection issue in dev
 2025-04-29 Improve GitHub trending repo UI
+2025-04-29 Enhance error handling for API fetches
