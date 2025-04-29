@@ -274,3 +274,4 @@
 // Enhance AI assistant response quality
 // Improve GitHub trending repo UI
 // Add unit tests for roadmap component
+// Fix PostgreSQL connection issue in dev
