@@ -277,3 +277,4 @@
 2025-04-29 Fix PostgreSQL connection issue in dev
 2025-04-29 Setup Render deployment blueprint
 2025-04-29 Design bookmark system state flow
+2025-04-29 Test offline support with service workers
