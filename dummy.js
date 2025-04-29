@@ -281,3 +281,4 @@
 // Refactor fetch logic for tech news
 // Improve responsive layout on mobile
 // Improve responsive layout on mobile
+// Fix PostgreSQL connection issue in dev
