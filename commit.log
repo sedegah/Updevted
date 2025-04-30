@@ -289,3 +289,4 @@
 2025-04-30 Implement GitHub trending repos integration
 2025-04-30 Test offline support with service workers
 2025-04-30 Fix PostgreSQL connection issue in dev
+2025-04-30 Update README with local dev steps

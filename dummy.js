@@ -289,3 +289,4 @@
 // Implement GitHub trending repos integration
 // Test offline support with service workers
 // Fix PostgreSQL connection issue in dev
+// Update README with local dev steps
