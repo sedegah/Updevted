@@ -288,3 +288,4 @@
 // Refine dark mode contrast ratios
 // Implement GitHub trending repos integration
 // Test offline support with service workers
+// Fix PostgreSQL connection issue in dev
