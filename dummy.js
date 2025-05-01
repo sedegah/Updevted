@@ -291,3 +291,4 @@
 // Fix PostgreSQL connection issue in dev
 // Update README with local dev steps
 // Implement GitHub trending repos integration
+// Integrate Groq API for summarization

@@ -291,3 +291,4 @@
 2025-04-30 Fix PostgreSQL connection issue in dev
 2025-04-30 Update README with local dev steps
 2025-04-30 Implement GitHub trending repos integration
+2025-05-01 Integrate Groq API for summarization
