@@ -300,3 +300,4 @@
 // Fix PostgreSQL connection issue in dev
 // Improve loading spinner UX
 // Refactor fetch logic for tech news
+// Fix PostgreSQL connection issue in dev
