@@ -293,3 +293,4 @@
 // Implement GitHub trending repos integration
 // Integrate Groq API for summarization
 // Add custom 404 page
+// Improve GitHub trending repo UI
