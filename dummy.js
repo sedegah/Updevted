@@ -302,3 +302,4 @@
 // Refactor fetch logic for tech news
 // Fix PostgreSQL connection issue in dev
 // Add custom 404 page
+// Add TypeScript types to components

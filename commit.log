@@ -302,3 +302,4 @@
 2025-05-01 Refactor fetch logic for tech news
 2025-05-01 Fix PostgreSQL connection issue in dev
 2025-05-01 Add custom 404 page
+2025-05-01 Add TypeScript types to components
