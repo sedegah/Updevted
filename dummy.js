@@ -299,3 +299,4 @@
 // Optimize Tailwind utility classes
 // Fix PostgreSQL connection issue in dev
 // Improve loading spinner UX
+// Refactor fetch logic for tech news
