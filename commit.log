@@ -298,3 +298,4 @@
 2025-05-01 Optimize Tailwind utility classes
 2025-05-01 Optimize Tailwind utility classes
 2025-05-01 Fix PostgreSQL connection issue in dev
+2025-05-01 Improve loading spinner UX

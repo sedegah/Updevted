@@ -298,3 +298,4 @@
 // Optimize Tailwind utility classes
 // Optimize Tailwind utility classes
 // Fix PostgreSQL connection issue in dev
+// Improve loading spinner UX
