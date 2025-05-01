@@ -301,3 +301,4 @@
 // Improve loading spinner UX
 // Refactor fetch logic for tech news
 // Fix PostgreSQL connection issue in dev
+// Add custom 404 page
