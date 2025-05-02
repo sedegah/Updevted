@@ -304,3 +304,4 @@
 // Add custom 404 page
 // Add TypeScript types to components
 // Refine dark mode contrast ratios
+// Improve loading spinner UX
