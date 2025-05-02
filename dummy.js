@@ -305,3 +305,4 @@
 // Add TypeScript types to components
 // Refine dark mode contrast ratios
 // Improve loading spinner UX
+// Refine dark mode contrast ratios
