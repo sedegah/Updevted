@@ -307,3 +307,4 @@
 // Improve loading spinner UX
 // Refine dark mode contrast ratios
 // Fix PostgreSQL connection issue in dev
+// Optimize Tailwind utility classes
