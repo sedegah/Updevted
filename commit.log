@@ -306,3 +306,4 @@
 2025-05-02 Refine dark mode contrast ratios
 2025-05-02 Improve loading spinner UX
 2025-05-02 Refine dark mode contrast ratios
+2025-05-02 Fix PostgreSQL connection issue in dev
