@@ -316,3 +316,4 @@
 // Integrate Groq API for summarization
 // Improve GitHub trending repo UI
 // Improve loading spinner UX
+// Optimize Tailwind utility classes
