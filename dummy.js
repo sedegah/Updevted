@@ -318,3 +318,4 @@
 // Improve loading spinner UX
 // Optimize Tailwind utility classes
 // Update README with local dev steps
+// Implement GitHub trending repos integration
