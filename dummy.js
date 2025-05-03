@@ -309,3 +309,4 @@
 // Fix PostgreSQL connection issue in dev
 // Optimize Tailwind utility classes
 // Refactor roadmap component structure
+// Enhance error handling for API fetches
