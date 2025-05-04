@@ -321,3 +321,4 @@
 // Implement GitHub trending repos integration
 // Design bookmark system state flow
 // Enhance error handling for API fetches
+// Improve responsive layout on mobile
