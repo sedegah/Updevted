@@ -320,3 +320,4 @@
 // Update README with local dev steps
 // Implement GitHub trending repos integration
 // Design bookmark system state flow
+// Enhance error handling for API fetches
