@@ -332,3 +332,4 @@
 // Fix PostgreSQL connection issue in dev
 // Setup Render deployment blueprint
 // Integrate Groq API for summarization
+// Refactor fetch logic for tech news
