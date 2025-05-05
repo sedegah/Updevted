@@ -327,3 +327,4 @@
 // Add TypeScript types to components
 // Add fade-in animations for content tiles
 // Add unit tests for roadmap component
+// Add TypeScript types to components
