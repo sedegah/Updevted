@@ -325,3 +325,4 @@
 // Add TypeScript types to components
 // Enhance AI assistant response quality
 // Add TypeScript types to components
+// Add fade-in animations for content tiles
