@@ -329,3 +329,4 @@
 // Add unit tests for roadmap component
 // Add TypeScript types to components
 // Integrate Groq API for summarization
+// Fix PostgreSQL connection issue in dev
