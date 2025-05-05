@@ -330,3 +330,4 @@
 2025-05-05 Add TypeScript types to components
 2025-05-05 Integrate Groq API for summarization
 2025-05-05 Fix PostgreSQL connection issue in dev
+2025-05-05 Setup Render deployment blueprint
