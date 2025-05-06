@@ -342,3 +342,4 @@
 // Improve GitHub trending repo UI
 // Add custom 404 page
 // Refactor fetch logic for tech news
+// Test offline support with service workers
