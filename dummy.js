@@ -344,3 +344,4 @@
 // Refactor fetch logic for tech news
 // Test offline support with service workers
 // Refactor roadmap component structure
+// Refine dark mode contrast ratios
