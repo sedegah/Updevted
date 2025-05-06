@@ -343,3 +343,4 @@
 2025-05-06 Add custom 404 page
 2025-05-06 Refactor fetch logic for tech news
 2025-05-06 Test offline support with service workers
+2025-05-06 Refactor roadmap component structure
