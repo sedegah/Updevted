@@ -349,3 +349,4 @@
 // Integrate Groq API for summarization
 // Add custom 404 page
 // Improve responsive layout on mobile
+// Enhance AI assistant response quality
