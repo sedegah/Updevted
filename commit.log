@@ -360,3 +360,4 @@
 2025-05-08 Improve responsive layout on mobile
 2025-05-08 Add TypeScript types to components
 2025-05-08 Refactor fetch logic for tech news
+2025-05-08 Refactor roadmap component structure

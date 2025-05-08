@@ -360,3 +360,4 @@
 // Improve responsive layout on mobile
 // Add TypeScript types to components
 // Refactor fetch logic for tech news
+// Refactor roadmap component structure
