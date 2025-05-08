@@ -361,3 +361,4 @@
 // Add TypeScript types to components
 // Refactor fetch logic for tech news
 // Refactor roadmap component structure
+// Add unit tests for roadmap component
