@@ -359,3 +359,4 @@
 // Add custom 404 page
 // Improve responsive layout on mobile
 // Add TypeScript types to components
+// Refactor fetch logic for tech news
