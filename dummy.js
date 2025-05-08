@@ -362,3 +362,4 @@
 // Refactor fetch logic for tech news
 // Refactor roadmap component structure
 // Add unit tests for roadmap component
+// Integrate Groq API for summarization
