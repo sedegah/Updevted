@@ -366,3 +366,4 @@
 // Improve loading spinner UX
 // Setup Render deployment blueprint
 // Enhance error handling for API fetches
+// Fix PostgreSQL connection issue in dev
