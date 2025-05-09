@@ -367,3 +367,4 @@
 // Setup Render deployment blueprint
 // Enhance error handling for API fetches
 // Fix PostgreSQL connection issue in dev
+// Add fade-in animations for content tiles
