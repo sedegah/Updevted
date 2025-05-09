@@ -365,3 +365,4 @@
 // Integrate Groq API for summarization
 // Improve loading spinner UX
 // Setup Render deployment blueprint
+// Enhance error handling for API fetches

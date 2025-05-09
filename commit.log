@@ -365,3 +365,4 @@
 2025-05-08 Integrate Groq API for summarization
 2025-05-08 Improve loading spinner UX
 2025-05-08 Setup Render deployment blueprint
+2025-05-09 Enhance error handling for API fetches
