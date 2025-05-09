@@ -371,3 +371,4 @@
 2025-05-09 Setup Render deployment blueprint
 2025-05-09 Add custom 404 page
 2025-05-09 Fix PostgreSQL connection issue in dev
+2025-05-09 Update README with local dev steps
