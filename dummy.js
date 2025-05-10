@@ -374,3 +374,4 @@
 // Update README with local dev steps
 // Refactor roadmap component structure
 // Implement GitHub trending repos integration
+// Improve GitHub trending repo UI
