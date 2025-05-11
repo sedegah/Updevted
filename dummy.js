@@ -383,3 +383,4 @@
 // Implement GitHub trending repos integration
 // Improve GitHub trending repo UI
 // Update README with local dev steps
+// Improve loading spinner UX
