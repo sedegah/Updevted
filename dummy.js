@@ -394,3 +394,4 @@
 // Implement GitHub trending repos integration
 // Enhance error handling for API fetches
 // Design bookmark system state flow
+// Integrate Groq API for summarization
