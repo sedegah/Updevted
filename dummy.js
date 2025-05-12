@@ -390,3 +390,4 @@
 // Integrate Groq API for summarization
 // Add unit tests for roadmap component
 // Fix PostgreSQL connection issue in dev
+// Add fade-in animations for content tiles
