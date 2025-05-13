@@ -396,3 +396,4 @@
 2025-05-12 Design bookmark system state flow
 2025-05-12 Integrate Groq API for summarization
 2025-05-12 Add unit tests for roadmap component
+2025-05-13 Improve loading spinner UX
