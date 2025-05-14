@@ -411,3 +411,4 @@
 // Optimize Tailwind utility classes
 // Refactor roadmap component structure
 // Update README with local dev steps
+// Test offline support with service workers

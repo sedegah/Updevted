@@ -411,3 +411,4 @@
 2025-05-14 Optimize Tailwind utility classes
 2025-05-14 Refactor roadmap component structure
 2025-05-14 Update README with local dev steps
+2025-05-14 Test offline support with service workers
