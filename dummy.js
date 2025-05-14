@@ -414,3 +414,4 @@
 // Test offline support with service workers
 // Update README with local dev steps
 // Design bookmark system state flow
+// Add TypeScript types to components

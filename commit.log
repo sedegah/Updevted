@@ -414,3 +414,4 @@
 2025-05-14 Test offline support with service workers
 2025-05-14 Update README with local dev steps
 2025-05-14 Design bookmark system state flow
+2025-05-14 Add TypeScript types to components
