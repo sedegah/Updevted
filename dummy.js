@@ -407,3 +407,4 @@
 // Refactor roadmap component structure
 // Refine dark mode contrast ratios
 // Improve loading spinner UX
+// Add fade-in animations for content tiles
