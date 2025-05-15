@@ -419,3 +419,4 @@
 // Implement GitHub trending repos integration
 // Fix PostgreSQL connection issue in dev
 // Refine dark mode contrast ratios
+// Update README with local dev steps
