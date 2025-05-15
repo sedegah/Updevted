@@ -422,3 +422,4 @@
 // Update README with local dev steps
 // Improve responsive layout on mobile
 // Optimize Tailwind utility classes
+// Fix PostgreSQL connection issue in dev
