@@ -420,3 +420,4 @@
 // Fix PostgreSQL connection issue in dev
 // Refine dark mode contrast ratios
 // Update README with local dev steps
+// Improve responsive layout on mobile
