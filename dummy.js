@@ -415,3 +415,4 @@
 // Update README with local dev steps
 // Design bookmark system state flow
 // Add TypeScript types to components
+// Refine dark mode contrast ratios
