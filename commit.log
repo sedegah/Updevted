@@ -424,3 +424,4 @@
 2025-05-15 Optimize Tailwind utility classes
 2025-05-15 Fix PostgreSQL connection issue in dev
 2025-05-15 Refactor fetch logic for tech news
+2025-05-16 Add unit tests for roadmap component
