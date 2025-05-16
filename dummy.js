@@ -426,3 +426,4 @@
 // Refactor fetch logic for tech news
 // Add unit tests for roadmap component
 // Integrate Groq API for summarization
+// Add fade-in animations for content tiles
