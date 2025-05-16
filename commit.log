@@ -429,3 +429,4 @@
 2025-05-16 Add fade-in animations for content tiles
 2025-05-16 Setup Render deployment blueprint
 2025-05-16 Add custom 404 page
+2025-05-16 Fix PostgreSQL connection issue in dev
