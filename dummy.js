@@ -433,3 +433,4 @@
 // Add unit tests for roadmap component
 // Improve loading spinner UX
 // Setup Render deployment blueprint
+// Refactor fetch logic for tech news
