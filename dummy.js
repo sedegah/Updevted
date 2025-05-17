@@ -436,3 +436,4 @@
 // Refactor fetch logic for tech news
 // Improve loading spinner UX
 // Enhance error handling for API fetches
+// Add fade-in animations for content tiles

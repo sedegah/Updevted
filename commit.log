@@ -436,3 +436,4 @@
 2025-05-16 Refactor fetch logic for tech news
 2025-05-16 Improve loading spinner UX
 2025-05-17 Enhance error handling for API fetches
+2025-05-17 Add fade-in animations for content tiles
