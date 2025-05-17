@@ -444,3 +444,4 @@
 // Improve responsive layout on mobile
 // Enhance error handling for API fetches
 // Add custom 404 page
+// Enhance error handling for API fetches
