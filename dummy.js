@@ -435,3 +435,4 @@
 // Setup Render deployment blueprint
 // Refactor fetch logic for tech news
 // Improve loading spinner UX
+// Enhance error handling for API fetches
