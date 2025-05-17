@@ -442,3 +442,4 @@
 2025-05-17 Add fade-in animations for content tiles
 2025-05-17 Fix PostgreSQL connection issue in dev
 2025-05-17 Improve responsive layout on mobile
+2025-05-17 Enhance error handling for API fetches

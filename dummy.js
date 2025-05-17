@@ -442,3 +442,4 @@
 // Add fade-in animations for content tiles
 // Fix PostgreSQL connection issue in dev
 // Improve responsive layout on mobile
+// Enhance error handling for API fetches
