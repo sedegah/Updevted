@@ -443,3 +443,4 @@
 2025-05-17 Fix PostgreSQL connection issue in dev
 2025-05-17 Improve responsive layout on mobile
 2025-05-17 Enhance error handling for API fetches
+2025-05-17 Add custom 404 page
