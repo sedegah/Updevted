@@ -449,3 +449,4 @@
 // Enhance error handling for API fetches
 // Setup Render deployment blueprint
 // Refine dark mode contrast ratios
+// Integrate Groq API for summarization
