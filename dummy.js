@@ -452,3 +452,4 @@
 // Integrate Groq API for summarization
 // Add TypeScript types to components
 // Test offline support with service workers
+// Test offline support with service workers
