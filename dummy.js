@@ -453,3 +453,4 @@
 // Add TypeScript types to components
 // Test offline support with service workers
 // Test offline support with service workers
+// Refine dark mode contrast ratios
