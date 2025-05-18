@@ -450,3 +450,4 @@
 // Setup Render deployment blueprint
 // Refine dark mode contrast ratios
 // Integrate Groq API for summarization
+// Add TypeScript types to components
