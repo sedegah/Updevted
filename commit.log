@@ -455,3 +455,4 @@
 2025-05-18 Test offline support with service workers
 2025-05-18 Refine dark mode contrast ratios
 2025-05-19 Design bookmark system state flow
+2025-05-19 Improve loading spinner UX
