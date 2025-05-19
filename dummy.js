@@ -461,3 +461,4 @@
 // Optimize Tailwind utility classes
 // Implement GitHub trending repos integration
 // Add unit tests for roadmap component
+// Refactor fetch logic for tech news
