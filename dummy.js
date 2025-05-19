@@ -460,3 +460,4 @@
 // Improve loading spinner UX
 // Optimize Tailwind utility classes
 // Implement GitHub trending repos integration
+// Add unit tests for roadmap component
