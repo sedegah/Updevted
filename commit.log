@@ -467,3 +467,4 @@
 2025-05-20 Add unit tests for roadmap component
 2025-05-20 Optimize Tailwind utility classes
 2025-05-20 Add TypeScript types to components
+2025-05-20 Update README with local dev steps
