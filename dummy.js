@@ -463,3 +463,4 @@
 // Add unit tests for roadmap component
 // Refactor fetch logic for tech news
 // Enhance error handling for API fetches
+// Fix PostgreSQL connection issue in dev
