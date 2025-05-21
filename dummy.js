@@ -478,3 +478,4 @@
 // Implement GitHub trending repos integration
 // Improve loading spinner UX
 // Integrate Groq API for summarization
+// Improve responsive layout on mobile
