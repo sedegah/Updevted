@@ -480,3 +480,4 @@
 // Integrate Groq API for summarization
 // Improve responsive layout on mobile
 // Refine dark mode contrast ratios
+// Improve loading spinner UX
