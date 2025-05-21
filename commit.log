@@ -477,3 +477,4 @@
 2025-05-21 Refactor fetch logic for tech news
 2025-05-21 Implement GitHub trending repos integration
 2025-05-21 Improve loading spinner UX
+2025-05-21 Integrate Groq API for summarization
