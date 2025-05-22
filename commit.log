@@ -482,3 +482,4 @@
 2025-05-21 Refine dark mode contrast ratios
 2025-05-21 Improve loading spinner UX
 2025-05-22 Enhance error handling for API fetches
+2025-05-22 Add fade-in animations for content tiles
