@@ -481,3 +481,4 @@
 // Improve responsive layout on mobile
 // Refine dark mode contrast ratios
 // Improve loading spinner UX
+// Enhance error handling for API fetches
