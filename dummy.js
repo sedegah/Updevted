@@ -496,3 +496,4 @@
 // Refine dark mode contrast ratios
 // Enhance error handling for API fetches
 // Add unit tests for roadmap component
+// Optimize Tailwind utility classes
