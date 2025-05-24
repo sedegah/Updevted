@@ -499,3 +499,4 @@
 // Optimize Tailwind utility classes
 // Add unit tests for roadmap component
 // Add custom 404 page
+// Integrate Groq API for summarization
