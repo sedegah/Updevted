@@ -506,3 +506,4 @@
 // Setup Render deployment blueprint
 // Enhance AI assistant response quality
 // Implement GitHub trending repos integration
+// Update README with local dev steps
