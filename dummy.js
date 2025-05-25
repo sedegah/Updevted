@@ -515,3 +515,4 @@
 // Improve responsive layout on mobile
 // Test offline support with service workers
 // Refactor fetch logic for tech news
+// Integrate Groq API for summarization
