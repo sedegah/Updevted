@@ -511,3 +511,4 @@
 2025-05-25 Add custom 404 page
 2025-05-25 Add unit tests for roadmap component
 2025-05-25 Add fade-in animations for content tiles
+2025-05-25 Test offline support with service workers
