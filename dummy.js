@@ -512,3 +512,4 @@
 // Add unit tests for roadmap component
 // Add fade-in animations for content tiles
 // Test offline support with service workers
+// Improve responsive layout on mobile
