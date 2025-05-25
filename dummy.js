@@ -517,3 +517,4 @@
 // Refactor fetch logic for tech news
 // Integrate Groq API for summarization
 // Enhance error handling for API fetches
+// Refactor fetch logic for tech news
