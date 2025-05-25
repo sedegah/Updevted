@@ -516,3 +516,4 @@
 // Test offline support with service workers
 // Refactor fetch logic for tech news
 // Integrate Groq API for summarization
+// Enhance error handling for API fetches

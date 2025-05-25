@@ -516,3 +516,4 @@
 2025-05-25 Test offline support with service workers
 2025-05-25 Refactor fetch logic for tech news
 2025-05-25 Integrate Groq API for summarization
+2025-05-25 Enhance error handling for API fetches
