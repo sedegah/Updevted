@@ -513,3 +513,4 @@
 // Add fade-in animations for content tiles
 // Test offline support with service workers
 // Improve responsive layout on mobile
+// Test offline support with service workers
