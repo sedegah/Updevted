@@ -514,3 +514,4 @@
 // Test offline support with service workers
 // Improve responsive layout on mobile
 // Test offline support with service workers
+// Refactor fetch logic for tech news
