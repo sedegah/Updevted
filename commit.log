@@ -519,3 +519,4 @@
 2025-05-25 Enhance error handling for API fetches
 2025-05-25 Refactor fetch logic for tech news
 2025-05-26 Improve loading spinner UX
+2025-05-26 Refine dark mode contrast ratios

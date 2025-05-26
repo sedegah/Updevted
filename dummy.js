@@ -519,3 +519,4 @@
 // Enhance error handling for API fetches
 // Refactor fetch logic for tech news
 // Improve loading spinner UX
+// Refine dark mode contrast ratios
