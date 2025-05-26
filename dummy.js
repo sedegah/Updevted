@@ -518,3 +518,4 @@
 // Integrate Groq API for summarization
 // Enhance error handling for API fetches
 // Refactor fetch logic for tech news
+// Improve loading spinner UX
