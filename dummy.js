@@ -520,3 +520,4 @@
 // Refactor fetch logic for tech news
 // Improve loading spinner UX
 // Refine dark mode contrast ratios
+// Add custom 404 page
