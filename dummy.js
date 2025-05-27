@@ -531,3 +531,4 @@
 // Add TypeScript types to components
 // Enhance AI assistant response quality
 // Fix PostgreSQL connection issue in dev
+// Setup Render deployment blueprint
