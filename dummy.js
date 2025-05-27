@@ -530,3 +530,4 @@
 // Add TypeScript types to components
 // Add TypeScript types to components
 // Enhance AI assistant response quality
+// Fix PostgreSQL connection issue in dev

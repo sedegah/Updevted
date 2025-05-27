@@ -530,3 +530,4 @@
 2025-05-27 Add TypeScript types to components
 2025-05-27 Add TypeScript types to components
 2025-05-27 Enhance AI assistant response quality
+2025-05-27 Fix PostgreSQL connection issue in dev
