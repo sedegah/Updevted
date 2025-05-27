@@ -527,3 +527,4 @@
 // Refactor fetch logic for tech news
 // Refine dark mode contrast ratios
 // Implement GitHub trending repos integration
+// Add TypeScript types to components
