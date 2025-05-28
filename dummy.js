@@ -537,3 +537,4 @@
 // Enhance AI assistant response quality
 // Enhance error handling for API fetches
 // Enhance error handling for API fetches
+// Refine dark mode contrast ratios
