@@ -547,3 +547,4 @@
 // Design bookmark system state flow
 // Improve GitHub trending repo UI
 // Integrate Groq API for summarization
+// Enhance error handling for API fetches
