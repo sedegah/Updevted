@@ -553,3 +553,4 @@
 // Refine dark mode contrast ratios
 // Update README with local dev steps
 // Optimize Tailwind utility classes
+// Improve responsive layout on mobile
