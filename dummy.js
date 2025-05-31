@@ -567,3 +567,4 @@
 // Setup Render deployment blueprint
 // Test offline support with service workers
 // Update README with local dev steps
+// Add fade-in animations for content tiles
