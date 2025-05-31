@@ -566,3 +566,4 @@
 2025-05-31 Refactor roadmap component structure
 2025-05-31 Setup Render deployment blueprint
 2025-05-31 Test offline support with service workers
+2025-05-31 Update README with local dev steps
