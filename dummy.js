@@ -568,3 +568,4 @@
 // Test offline support with service workers
 // Update README with local dev steps
 // Add fade-in animations for content tiles
+// Enhance AI assistant response quality
