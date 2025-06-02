@@ -581,3 +581,4 @@
 2025-06-02 Fix PostgreSQL connection issue in dev
 2025-06-02 Fix PostgreSQL connection issue in dev
 2025-06-02 Enhance error handling for API fetches
+2025-06-02 Refactor roadmap component structure
