@@ -580,3 +580,4 @@
 2025-06-02 Add custom 404 page
 2025-06-02 Fix PostgreSQL connection issue in dev
 2025-06-02 Fix PostgreSQL connection issue in dev
+2025-06-02 Enhance error handling for API fetches
