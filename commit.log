@@ -578,3 +578,4 @@
 2025-06-01 Setup Render deployment blueprint
 2025-06-01 Add custom 404 page
 2025-06-02 Add custom 404 page
+2025-06-02 Fix PostgreSQL connection issue in dev
