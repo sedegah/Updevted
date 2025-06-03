@@ -585,3 +585,4 @@
 2025-06-02 Design bookmark system state flow
 2025-06-03 Design bookmark system state flow
 2025-06-03 Add TypeScript types to components
+2025-06-03 Integrate Groq API for summarization

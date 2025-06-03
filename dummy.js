@@ -585,3 +585,4 @@
 // Design bookmark system state flow
 // Design bookmark system state flow
 // Add TypeScript types to components
+// Integrate Groq API for summarization
