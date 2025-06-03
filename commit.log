@@ -591,3 +591,4 @@
 2025-06-03 Refactor fetch logic for tech news
 2025-06-03 Implement GitHub trending repos integration
 2025-06-03 Improve responsive layout on mobile
+2025-06-03 Refactor roadmap component structure
