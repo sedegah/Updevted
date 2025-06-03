@@ -588,3 +588,4 @@
 // Integrate Groq API for summarization
 // Enhance error handling for API fetches
 // Setup Render deployment blueprint
+// Refactor fetch logic for tech news
