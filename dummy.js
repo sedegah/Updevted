@@ -590,3 +590,4 @@
 // Setup Render deployment blueprint
 // Refactor fetch logic for tech news
 // Implement GitHub trending repos integration
+// Improve responsive layout on mobile
