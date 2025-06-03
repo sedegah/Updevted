@@ -584,3 +584,4 @@
 2025-06-02 Refactor roadmap component structure
 2025-06-02 Design bookmark system state flow
 2025-06-03 Design bookmark system state flow
+2025-06-03 Add TypeScript types to components

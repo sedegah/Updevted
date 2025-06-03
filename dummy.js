@@ -584,3 +584,4 @@
 // Refactor roadmap component structure
 // Design bookmark system state flow
 // Design bookmark system state flow
+// Add TypeScript types to components
