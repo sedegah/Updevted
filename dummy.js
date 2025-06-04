@@ -601,3 +601,4 @@
 // Add fade-in animations for content tiles
 // Setup Render deployment blueprint
 // Fix PostgreSQL connection issue in dev
+// Refactor fetch logic for tech news

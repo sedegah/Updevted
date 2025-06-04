@@ -601,3 +601,4 @@
 2025-06-04 Add fade-in animations for content tiles
 2025-06-04 Setup Render deployment blueprint
 2025-06-04 Fix PostgreSQL connection issue in dev
+2025-06-04 Refactor fetch logic for tech news
