@@ -600,3 +600,4 @@
 // Refine dark mode contrast ratios
 // Add fade-in animations for content tiles
 // Setup Render deployment blueprint
+// Fix PostgreSQL connection issue in dev
