@@ -594,3 +594,4 @@
 // Refactor roadmap component structure
 // Update README with local dev steps
 // Implement GitHub trending repos integration
+// Refactor fetch logic for tech news
