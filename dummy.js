@@ -597,3 +597,4 @@
 // Refactor fetch logic for tech news
 // Optimize Tailwind utility classes
 // Add custom 404 page
+// Refine dark mode contrast ratios
