@@ -598,3 +598,4 @@
 // Optimize Tailwind utility classes
 // Add custom 404 page
 // Refine dark mode contrast ratios
+// Add fade-in animations for content tiles
