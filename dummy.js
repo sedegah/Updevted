@@ -611,3 +611,4 @@
 // Test offline support with service workers
 // Improve loading spinner UX
 // Enhance error handling for API fetches
+// Update README with local dev steps
