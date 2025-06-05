@@ -612,3 +612,4 @@
 2025-06-05 Improve loading spinner UX
 2025-06-05 Enhance error handling for API fetches
 2025-06-05 Update README with local dev steps
+2025-06-05 Test offline support with service workers
