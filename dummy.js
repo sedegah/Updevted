@@ -608,3 +608,4 @@
 // Refactor roadmap component structure
 // Implement GitHub trending repos integration
 // Add TypeScript types to components
+// Test offline support with service workers
