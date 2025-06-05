@@ -607,3 +607,4 @@
 // Setup Render deployment blueprint
 // Refactor roadmap component structure
 // Implement GitHub trending repos integration
+// Add TypeScript types to components
