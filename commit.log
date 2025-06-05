@@ -610,3 +610,4 @@
 2025-06-05 Add TypeScript types to components
 2025-06-05 Test offline support with service workers
 2025-06-05 Improve loading spinner UX
+2025-06-05 Enhance error handling for API fetches

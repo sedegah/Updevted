@@ -610,3 +610,4 @@
 // Add TypeScript types to components
 // Test offline support with service workers
 // Improve loading spinner UX
+// Enhance error handling for API fetches
