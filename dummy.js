@@ -619,3 +619,4 @@
 // Enhance error handling for API fetches
 // Refactor roadmap component structure
 // Update README with local dev steps
+// Integrate Groq API for summarization
