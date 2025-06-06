@@ -621,3 +621,4 @@
 // Update README with local dev steps
 // Integrate Groq API for summarization
 // Enhance AI assistant response quality
+// Test offline support with service workers
