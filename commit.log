@@ -623,3 +623,4 @@
 2025-06-06 Enhance AI assistant response quality
 2025-06-06 Test offline support with service workers
 2025-06-06 Refactor fetch logic for tech news
+2025-06-06 Fix PostgreSQL connection issue in dev
