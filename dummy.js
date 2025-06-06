@@ -622,3 +622,4 @@
 // Integrate Groq API for summarization
 // Enhance AI assistant response quality
 // Test offline support with service workers
+// Refactor fetch logic for tech news
