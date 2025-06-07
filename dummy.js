@@ -626,3 +626,4 @@
 // Fix PostgreSQL connection issue in dev
 // Optimize Tailwind utility classes
 // Improve responsive layout on mobile
+// Optimize Tailwind utility classes
