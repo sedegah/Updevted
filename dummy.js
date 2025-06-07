@@ -625,3 +625,4 @@
 // Refactor fetch logic for tech news
 // Fix PostgreSQL connection issue in dev
 // Optimize Tailwind utility classes
+// Improve responsive layout on mobile

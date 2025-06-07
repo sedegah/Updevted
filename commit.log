@@ -625,3 +625,4 @@
 2025-06-06 Refactor fetch logic for tech news
 2025-06-06 Fix PostgreSQL connection issue in dev
 2025-06-06 Optimize Tailwind utility classes
+2025-06-07 Improve responsive layout on mobile
