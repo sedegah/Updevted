@@ -627,3 +627,4 @@
 // Optimize Tailwind utility classes
 // Improve responsive layout on mobile
 // Optimize Tailwind utility classes
+// Add TypeScript types to components
