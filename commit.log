@@ -641,3 +641,4 @@
 2025-06-08 Add custom 404 page
 2025-06-08 Enhance error handling for API fetches
 2025-06-08 Integrate Groq API for summarization
+2025-06-08 Update README with local dev steps

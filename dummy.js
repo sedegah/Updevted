@@ -641,3 +641,4 @@
 // Add custom 404 page
 // Enhance error handling for API fetches
 // Integrate Groq API for summarization
+// Update README with local dev steps
