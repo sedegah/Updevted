@@ -636,3 +636,4 @@
 // Add unit tests for roadmap component
 // Add custom 404 page
 // Enhance AI assistant response quality
+// Integrate Groq API for summarization
