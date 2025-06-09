@@ -645,3 +645,4 @@
 // Add TypeScript types to components
 // Enhance error handling for API fetches
 // Improve GitHub trending repo UI
+// Refactor fetch logic for tech news
