@@ -643,3 +643,4 @@
 2025-06-08 Integrate Groq API for summarization
 2025-06-08 Update README with local dev steps
 2025-06-08 Add TypeScript types to components
+2025-06-09 Enhance error handling for API fetches
