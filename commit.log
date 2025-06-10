@@ -650,3 +650,4 @@
 2025-06-09 Design bookmark system state flow
 2025-06-09 Refactor fetch logic for tech news
 2025-06-09 Improve loading spinner UX
+2025-06-10 Fix PostgreSQL connection issue in dev
