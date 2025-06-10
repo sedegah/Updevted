@@ -652,3 +652,4 @@
 // Improve loading spinner UX
 // Fix PostgreSQL connection issue in dev
 // Refactor fetch logic for tech news
+// Add TypeScript types to components
