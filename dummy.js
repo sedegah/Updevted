@@ -651,3 +651,4 @@
 // Refactor fetch logic for tech news
 // Improve loading spinner UX
 // Fix PostgreSQL connection issue in dev
+// Refactor fetch logic for tech news

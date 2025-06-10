@@ -651,3 +651,4 @@
 2025-06-09 Refactor fetch logic for tech news
 2025-06-09 Improve loading spinner UX
 2025-06-10 Fix PostgreSQL connection issue in dev
+2025-06-10 Refactor fetch logic for tech news
