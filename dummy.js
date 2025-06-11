@@ -658,3 +658,4 @@
 // Design bookmark system state flow
 // Improve GitHub trending repo UI
 // Add custom 404 page
+// Integrate Groq API for summarization
