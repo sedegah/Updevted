@@ -666,3 +666,4 @@
 2025-06-11 Improve GitHub trending repo UI
 2025-06-12 Setup Render deployment blueprint
 2025-06-12 Add custom 404 page
+2025-06-12 Refactor fetch logic for tech news
