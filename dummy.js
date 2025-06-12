@@ -667,3 +667,4 @@
 // Setup Render deployment blueprint
 // Add custom 404 page
 // Refactor fetch logic for tech news
+// Refactor fetch logic for tech news
