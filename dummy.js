@@ -679,3 +679,4 @@
 // Enhance error handling for API fetches
 // Improve loading spinner UX
 // Test offline support with service workers
+// Add TypeScript types to components
