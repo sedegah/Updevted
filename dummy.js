@@ -677,3 +677,4 @@
 // Refine dark mode contrast ratios
 // Refactor roadmap component structure
 // Enhance error handling for API fetches
+// Improve loading spinner UX
