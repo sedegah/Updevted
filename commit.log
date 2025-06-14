@@ -680,3 +680,4 @@
 2025-06-14 Improve loading spinner UX
 2025-06-14 Test offline support with service workers
 2025-06-14 Add TypeScript types to components
+2025-06-14 Improve responsive layout on mobile
