@@ -678,3 +678,4 @@
 2025-06-13 Refactor roadmap component structure
 2025-06-13 Enhance error handling for API fetches
 2025-06-14 Improve loading spinner UX
+2025-06-14 Test offline support with service workers
