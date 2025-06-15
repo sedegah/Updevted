@@ -696,3 +696,4 @@
 // Enhance error handling for API fetches
 // Add TypeScript types to components
 // Add unit tests for roadmap component
+// Refine dark mode contrast ratios
