@@ -701,3 +701,4 @@
 2025-06-16 Enhance error handling for API fetches
 2025-06-16 Improve GitHub trending repo UI
 2025-06-16 Add custom 404 page
+2025-06-16 Test offline support with service workers

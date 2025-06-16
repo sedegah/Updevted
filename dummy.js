@@ -701,3 +701,4 @@
 // Enhance error handling for API fetches
 // Improve GitHub trending repo UI
 // Add custom 404 page
+// Test offline support with service workers
