@@ -709,3 +709,4 @@
 // Setup Render deployment blueprint
 // Enhance error handling for API fetches
 // Enhance error handling for API fetches
+// Add custom 404 page
