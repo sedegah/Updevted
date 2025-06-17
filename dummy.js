@@ -710,3 +710,4 @@
 // Enhance error handling for API fetches
 // Enhance error handling for API fetches
 // Add custom 404 page
+// Add fade-in animations for content tiles
