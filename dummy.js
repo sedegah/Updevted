@@ -718,3 +718,4 @@
 // Integrate Groq API for summarization
 // Improve GitHub trending repo UI
 // Add unit tests for roadmap component
+// Add custom 404 page
