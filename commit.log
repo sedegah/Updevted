@@ -725,3 +725,4 @@
 2025-06-18 Improve loading spinner UX
 2025-06-18 Update README with local dev steps
 2025-06-18 Implement GitHub trending repos integration
+2025-06-18 Add fade-in animations for content tiles
