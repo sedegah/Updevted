@@ -724,3 +724,4 @@
 // Enhance error handling for API fetches
 // Improve loading spinner UX
 // Update README with local dev steps
+// Implement GitHub trending repos integration
