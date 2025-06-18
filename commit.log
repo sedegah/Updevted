@@ -721,3 +721,4 @@
 2025-06-17 Add custom 404 page
 2025-06-17 Update README with local dev steps
 2025-06-18 Add TypeScript types to components
+2025-06-18 Enhance error handling for API fetches

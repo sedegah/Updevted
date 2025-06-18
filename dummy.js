@@ -721,3 +721,4 @@
 // Add custom 404 page
 // Update README with local dev steps
 // Add TypeScript types to components
+// Enhance error handling for API fetches
