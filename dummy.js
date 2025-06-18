@@ -720,3 +720,4 @@
 // Add unit tests for roadmap component
 // Add custom 404 page
 // Update README with local dev steps
+// Add TypeScript types to components
