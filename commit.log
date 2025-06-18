@@ -723,3 +723,4 @@
 2025-06-18 Add TypeScript types to components
 2025-06-18 Enhance error handling for API fetches
 2025-06-18 Improve loading spinner UX
+2025-06-18 Update README with local dev steps
