@@ -722,3 +722,4 @@
 // Update README with local dev steps
 // Add TypeScript types to components
 // Enhance error handling for API fetches
+// Improve loading spinner UX
