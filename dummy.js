@@ -739,3 +739,4 @@
 // Integrate Groq API for summarization
 // Improve loading spinner UX
 // Improve GitHub trending repo UI
+// Optimize Tailwind utility classes
