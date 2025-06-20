@@ -746,3 +746,4 @@
 // Test offline support with service workers
 // Add unit tests for roadmap component
 // Update README with local dev steps
+// Integrate Groq API for summarization
