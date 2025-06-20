@@ -743,3 +743,4 @@
 // Add custom 404 page
 // Enhance AI assistant response quality
 // Enhance AI assistant response quality
+// Test offline support with service workers
