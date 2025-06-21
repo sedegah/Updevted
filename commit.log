@@ -751,3 +751,4 @@
 2025-06-20 Improve loading spinner UX
 2025-06-21 Add fade-in animations for content tiles
 2025-06-21 Fix PostgreSQL connection issue in dev
+2025-06-21 Update README with local dev steps
