@@ -754,3 +754,4 @@
 // Update README with local dev steps
 // Enhance AI assistant response quality
 // Fix PostgreSQL connection issue in dev
+// Optimize Tailwind utility classes
