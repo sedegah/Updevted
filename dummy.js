@@ -749,3 +749,4 @@
 // Integrate Groq API for summarization
 // Enhance AI assistant response quality
 // Improve loading spinner UX
+// Add fade-in animations for content tiles
