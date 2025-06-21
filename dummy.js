@@ -756,3 +756,4 @@
 // Fix PostgreSQL connection issue in dev
 // Optimize Tailwind utility classes
 // Improve GitHub trending repo UI
+// Add TypeScript types to components
