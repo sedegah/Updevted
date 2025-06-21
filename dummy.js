@@ -750,3 +750,4 @@
 // Enhance AI assistant response quality
 // Improve loading spinner UX
 // Add fade-in animations for content tiles
+// Fix PostgreSQL connection issue in dev
