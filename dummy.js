@@ -760,3 +760,4 @@
 // Enhance error handling for API fetches
 // Improve responsive layout on mobile
 // Optimize Tailwind utility classes
+// Refactor fetch logic for tech news
