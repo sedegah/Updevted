@@ -762,3 +762,4 @@
 2025-06-22 Optimize Tailwind utility classes
 2025-06-22 Refactor fetch logic for tech news
 2025-06-22 Add fade-in animations for content tiles
+2025-06-22 Update README with local dev steps
