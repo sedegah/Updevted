@@ -761,3 +761,4 @@
 // Improve responsive layout on mobile
 // Optimize Tailwind utility classes
 // Refactor fetch logic for tech news
+// Add fade-in animations for content tiles
