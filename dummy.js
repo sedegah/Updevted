@@ -759,3 +759,4 @@
 // Add TypeScript types to components
 // Enhance error handling for API fetches
 // Improve responsive layout on mobile
+// Optimize Tailwind utility classes
