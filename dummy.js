@@ -772,3 +772,4 @@
 // Test offline support with service workers
 // Refactor fetch logic for tech news
 // Refactor fetch logic for tech news
+// Add fade-in animations for content tiles
