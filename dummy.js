@@ -765,3 +765,4 @@
 // Update README with local dev steps
 // Implement GitHub trending repos integration
 // Enhance AI assistant response quality
+// Fix PostgreSQL connection issue in dev
