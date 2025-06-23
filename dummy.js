@@ -768,3 +768,4 @@
 // Fix PostgreSQL connection issue in dev
 // Update README with local dev steps
 // Refine dark mode contrast ratios
+// Add fade-in animations for content tiles

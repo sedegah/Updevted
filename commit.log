@@ -768,3 +768,4 @@
 2025-06-23 Fix PostgreSQL connection issue in dev
 2025-06-23 Update README with local dev steps
 2025-06-23 Refine dark mode contrast ratios
+2025-06-23 Add fade-in animations for content tiles
