@@ -770,3 +770,4 @@
 2025-06-23 Refine dark mode contrast ratios
 2025-06-23 Add fade-in animations for content tiles
 2025-06-23 Test offline support with service workers
+2025-06-23 Refactor fetch logic for tech news
