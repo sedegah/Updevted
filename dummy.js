@@ -763,3 +763,4 @@
 // Refactor fetch logic for tech news
 // Add fade-in animations for content tiles
 // Update README with local dev steps
+// Implement GitHub trending repos integration
