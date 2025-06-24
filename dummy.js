@@ -777,3 +777,4 @@
 // Setup Render deployment blueprint
 // Update README with local dev steps
 // Refine dark mode contrast ratios
+// Refactor fetch logic for tech news
