@@ -779,3 +779,4 @@
 // Refine dark mode contrast ratios
 // Refactor fetch logic for tech news
 // Optimize Tailwind utility classes
+// Fix PostgreSQL connection issue in dev
