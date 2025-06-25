@@ -790,3 +790,4 @@
 2025-06-25 Add custom 404 page
 2025-06-25 Improve loading spinner UX
 2025-06-25 Improve responsive layout on mobile
+2025-06-25 Test offline support with service workers

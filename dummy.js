@@ -790,3 +790,4 @@
 // Add custom 404 page
 // Improve loading spinner UX
 // Improve responsive layout on mobile
+// Test offline support with service workers
