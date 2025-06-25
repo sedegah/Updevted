@@ -789,3 +789,4 @@
 // Add unit tests for roadmap component
 // Add custom 404 page
 // Improve loading spinner UX
+// Improve responsive layout on mobile
