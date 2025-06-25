@@ -786,3 +786,4 @@
 2025-06-25 Design bookmark system state flow
 2025-06-25 Optimize Tailwind utility classes
 2025-06-25 Refactor roadmap component structure
+2025-06-25 Add unit tests for roadmap component
