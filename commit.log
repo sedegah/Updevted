@@ -780,3 +780,4 @@
 2025-06-24 Refactor fetch logic for tech news
 2025-06-24 Optimize Tailwind utility classes
 2025-06-24 Fix PostgreSQL connection issue in dev
+2025-06-25 Enhance error handling for API fetches
