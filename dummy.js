@@ -796,3 +796,4 @@
 // Test offline support with service workers
 // Update README with local dev steps
 // Fix PostgreSQL connection issue in dev
+// Refactor roadmap component structure
