@@ -798,3 +798,4 @@
 // Fix PostgreSQL connection issue in dev
 // Refactor roadmap component structure
 // Optimize Tailwind utility classes
+// Test offline support with service workers
