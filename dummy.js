@@ -791,3 +791,4 @@
 // Improve loading spinner UX
 // Improve responsive layout on mobile
 // Test offline support with service workers
+// Optimize Tailwind utility classes
