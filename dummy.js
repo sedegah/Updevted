@@ -806,3 +806,4 @@
 // Add custom 404 page
 // Add fade-in animations for content tiles
 // Integrate Groq API for summarization
+// Fix PostgreSQL connection issue in dev
