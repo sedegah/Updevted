@@ -805,3 +805,4 @@
 2025-06-27 Add unit tests for roadmap component
 2025-06-27 Add custom 404 page
 2025-06-27 Add fade-in animations for content tiles
+2025-06-27 Integrate Groq API for summarization
