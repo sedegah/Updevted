@@ -804,3 +804,4 @@
 // Refactor fetch logic for tech news
 // Add unit tests for roadmap component
 // Add custom 404 page
+// Add fade-in animations for content tiles
