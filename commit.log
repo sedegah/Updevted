@@ -814,3 +814,4 @@
 2025-06-28 Refactor roadmap component structure
 2025-06-28 Improve loading spinner UX
 2025-06-28 Improve responsive layout on mobile
+2025-06-28 Enhance error handling for API fetches

@@ -814,3 +814,4 @@
 // Refactor roadmap component structure
 // Improve loading spinner UX
 // Improve responsive layout on mobile
+// Enhance error handling for API fetches
