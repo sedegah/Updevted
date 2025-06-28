@@ -812,3 +812,4 @@
 2025-06-27 Fix PostgreSQL connection issue in dev
 2025-06-28 Setup Render deployment blueprint
 2025-06-28 Refactor roadmap component structure
+2025-06-28 Improve loading spinner UX
