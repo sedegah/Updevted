@@ -825,3 +825,4 @@
 // Update README with local dev steps
 // Refactor fetch logic for tech news
 // Design bookmark system state flow
+// Add fade-in animations for content tiles
