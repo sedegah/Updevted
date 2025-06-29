@@ -822,3 +822,4 @@
 // Improve loading spinner UX
 // Add TypeScript types to components
 // Implement GitHub trending repos integration
+// Update README with local dev steps
