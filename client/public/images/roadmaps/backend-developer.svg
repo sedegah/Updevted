@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="600" height="400" viewBox="0 0 600 400" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#6C5CE7" stop-opacity="0.1"/>
+      <stop offset="100%" stop-color="#6C5CE7" stop-opacity="0.3"/>
+    </linearGradient>
+  </defs>
+  <rect width="600" height="400" fill="url(#bgGradient)" rx="15" ry="15"/>
+  <g fill="#6C5CE7" transform="translate(180, 90) scale(2.2)">
+    <!-- Database Icon -->
+    <path d="M96 40c0 13.255-21.49 24-48 24S0 53.255 0 40s21.49-24 48-24 48 10.745 48 24z"/>
+    <path d="M0 56c0 13.255 21.49 24 48 24s48-10.745 48-24V40c0 13.255-21.49 24-48 24S0 53.255 0 40v16z"/>
+    <path d="M0 72c0 13.255 21.49 24 48 24s48-10.745 48-24V56c0 13.255-21.49 24-48 24S0 69.255 0 56v16z"/>
+  </g>
+  <text x="300" y="300" fill="#6C5CE7" font-family="'Space Grotesk', sans-serif" font-size="28" text-anchor="middle" font-weight="bold">Backend Developer</text>
+  <text x="300" y="330" fill="#333333" font-family="'Space Grotesk', sans-serif" font-size="16" text-anchor="middle">Node.js • Python • Databases • APIs</text>
+</svg>

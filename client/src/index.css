@@ -1,0 +1,97 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --background: 0 0% 97.5%;
+    --foreground: 0 0% 10%;
+    
+    --card: 0 0% 100%;
+    --card-foreground: 0 0% 10%;
+    
+    --popover: 0 0% 100%;
+    --popover-foreground: 0 0% 10%;
+    
+    --primary: 203 89% 53%;
+    --primary-foreground: 0 0% 100%;
+    
+    --secondary: 255 81% 63%;
+    --secondary-foreground: 0 0% 100%;
+
+    --muted: 210 20% 96%;
+    --muted-foreground: 215 16% 47%;
+    
+    --accent: 248 87% 64%;
+    --accent-foreground: 0 0% 100%;
+    
+    --destructive: 0 84% 60%;
+    --destructive-foreground: 0 0% 100%;
+    
+    --border: 0 0% 92%;
+    --input: 0 0% 92%;
+    --ring: 0 0% 0%;
+
+    /* Twitter-like colors */
+    --light-bg: 210 17% 98%;
+    --light-card: 0 0% 100%;
+    --light-hover: 204 33% 97%;
+    
+    --dark-bg: 215 22% 12%;
+    --dark-card: 212 24% 15%;
+    --dark-hover: 210 23% 18%;
+    
+    --radius: 0.75rem;
+  }
+  
+  .dark {
+    --background: 215 22% 12%;
+    --foreground: 0 0% 95%;
+    
+    --card: 212 24% 15%;
+    --card-foreground: 0 0% 95%;
+    
+    --popover: 212 24% 15%;
+    --popover-foreground: 0 0% 95%;
+    
+    --primary: 203 89% 53%;
+    --primary-foreground: 0 0% 100%;
+    
+    --secondary: 255 81% 63%;
+    --secondary-foreground: 0 0% 100%;
+    
+    --muted: 212 24% 15%;
+    --muted-foreground: 215 20% 75%;
+    
+    --accent: 248 87% 64%;
+    --accent-foreground: 0 0% 100%;
+    
+    --destructive: 0 84% 60%;
+    --destructive-foreground: 0 0% 100%;
+    
+    --border: 215 27% 20%;
+    --input: 215 27% 20%;
+    --ring: 0 0% 80%;
+  }
+
+  * {
+    @apply border-border;
+  }
+
+  body {
+    @apply font-sans antialiased bg-light-bg dark:bg-dark-bg text-gray-900 dark:text-gray-100 transition-colors duration-200;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    @apply font-space;
+  }
+
+  /* Hide scrollbars but keep functionality */
+  .scrollbar-hide::-webkit-scrollbar {
+    display: none;
+  }
+  .scrollbar-hide {
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+  }
+}

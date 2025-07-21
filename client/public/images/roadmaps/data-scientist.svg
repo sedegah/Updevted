@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="600" height="400" viewBox="0 0 600 400" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FF6B6B" stop-opacity="0.1"/>
+      <stop offset="100%" stop-color="#FF6B6B" stop-opacity="0.3"/>
+    </linearGradient>
+  </defs>
+  <rect width="600" height="400" fill="url(#bgGradient)" rx="15" ry="15"/>
+  <g fill="#FF6B6B" transform="translate(200, 100) scale(2.0)">
+    <!-- Data Science Icon -->
+    <path d="M80 48H16c-8.84 0-16 7.16-16 16v16h96V64c0-8.84-7.16-16-16-16z"/>
+    <path d="M0 96v16c0 8.84 7.16 16 16 16h64c8.84 0 16-7.16 16-16V96H0z"/>
+    <path d="M48 40c13.25 0 24-10.75 24-24S61.25-8 48-8 24 2.75 24 16s10.75 24 24 24z"/>
+    <path d="M48 32c8.84 0 16-7.16 16-16S56.84 0 48 0 32 7.16 32 16s7.16 16 16 16z"/>
+  </g>
+  <text x="300" y="300" fill="#FF6B6B" font-family="'Space Grotesk', sans-serif" font-size="28" text-anchor="middle" font-weight="bold">Data Scientist</text>
+  <text x="300" y="330" fill="#333333" font-family="'Space Grotesk', sans-serif" font-size="16" text-anchor="middle">Python • Statistics • Machine Learning • AI</text>
+</svg>

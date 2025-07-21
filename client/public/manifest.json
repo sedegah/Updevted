@@ -1,0 +1,21 @@
+{
+  "name": "Updevted - Stay Ahead in Tech",
+  "short_name": "Updevted",
+  "description": "Stay informed about the latest tools, trends, discussions, and breakthroughs in tech",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#15202B",
+  "theme_color": "#1DA1F2",
+  "icons": [
+    {
+      "src": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/72x72/1f4bb.png",
+      "sizes": "72x72",
+      "type": "image/png"
+    },
+    {
+      "src": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f4bb.svg",
+      "sizes": "150x150",
+      "type": "image/svg+xml"
+    }
+  ]
+}

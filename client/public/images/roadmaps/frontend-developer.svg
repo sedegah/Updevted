@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="600" height="400" viewBox="0 0 600 400" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1DA1F2" stop-opacity="0.1"/>
+      <stop offset="100%" stop-color="#1DA1F2" stop-opacity="0.3"/>
+    </linearGradient>
+  </defs>
+  <rect width="600" height="400" fill="url(#bgGradient)" rx="15" ry="15"/>
+  <g fill="#1DA1F2" transform="translate(100, 100) scale(2.5)">
+    <path d="M144 32h-90l-6 6v50l6 6h90l6-6v-50l-6-6zm-6 50h-78v-38h78v38zm-60-16v6h-10v-6h10zm34 0v6h-26v-6h26z"/>
+    <path d="M43 118l-3-3v-13l3-3h16v6h-13v7h13v6h-16z"/>
+    <path d="M63 129l3-3v-24l-3-3h-16v6h13v18h-13v6h16z"/>
+    <path d="M94 118v-19h-6v13h-7v-13h-6v19h19z"/>
+    <path d="M78 123v6h19v-6h-19z"/>
+  </g>
+  <text x="300" y="300" fill="#1DA1F2" font-family="'Space Grotesk', sans-serif" font-size="28" text-anchor="middle" font-weight="bold">Frontend Developer</text>
+  <text x="300" y="330" fill="#333333" font-family="'Space Grotesk', sans-serif" font-size="16" text-anchor="middle">HTML • CSS • JavaScript • React</text>
+</svg>

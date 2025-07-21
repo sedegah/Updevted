@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="600" height="400" viewBox="0 0 600 400" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FF9F43" stop-opacity="0.1"/>
+      <stop offset="100%" stop-color="#FF9F43" stop-opacity="0.3"/>
+    </linearGradient>
+  </defs>
+  <rect width="600" height="400" fill="url(#bgGradient)" rx="15" ry="15"/>
+  <g fill="#FF9F43" transform="translate(230, 90) scale(1.8)">
+    <!-- Mobile Developer Icon -->
+    <path d="M64 0H16C7.16 0 0 7.16 0 16v96c0 8.84 7.16 16 16 16h48c8.84 0 16-7.16 16-16V16c0-8.84-7.16-16-16-16zm8 112c0 4.42-3.58 8-8 8H16c-4.42 0-8-3.58-8-8V16c0-4.42 3.58-8 8-8h48c4.42 0 8 3.58 8 8v96z"/>
+    <path d="M48 120h-16c-2.21 0-4 1.79-4 4s1.79 4 4 4h16c2.21 0 4-1.79 4-4s-1.79-4-4-4zM40 8c-2.21 0-4 1.79-4 4s1.79 4 4 4 4-1.79 4-4-1.79-4-4-4z"/>
+  </g>
+  <text x="300" y="300" fill="#FF9F43" font-family="'Space Grotesk', sans-serif" font-size="28" text-anchor="middle" font-weight="bold">Mobile Developer</text>
+  <text x="300" y="330" fill="#333333" font-family="'Space Grotesk', sans-serif" font-size="16" text-anchor="middle">React Native • Flutter • iOS • Android</text>
+</svg>
