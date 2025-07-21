@@ -1,5 +1,6 @@
 # Updevted
 
+
 A dynamic React application that curates tech news, GitHub trends, and career insights from public APIs. Designed with a modern, responsive interface and enhanced user experience features.
 
 ## Features
