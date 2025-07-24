@@ -9,7 +9,7 @@ import {
 } from "../client/src/lib/groq-service";
 
 export async function registerRoutes(app: Express): Promise<Server> {
-  // Serve the manifest.json for PWA support
+  
   app.get('/manifest.json', (req, res) => {
     res.json({
       "name": "Updevted",
@@ -34,7 +34,7 @@ export async function registerRoutes(app: Express): Promise<Server> {
     });
   });
 
-  // AI API endpoints
+  
 
   app.post('/api/ai/explain-code', async (req: Request, res: Response) => {
     try {
@@ -111,7 +111,7 @@ export async function registerRoutes(app: Express): Promise<Server> {
         });
       }
       
-      // Test the API key with a minimal request
+    
       const groqClient = new Groq({ apiKey });
       const response = await groqClient.chat.completions.create({
         model: 'llama3-8b-8192',
