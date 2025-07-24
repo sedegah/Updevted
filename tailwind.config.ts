@@ -10,7 +10,7 @@ export default {
         space: ['"Space Grotesk"', "sans-serif"],
       },
       colors: {
-        // Twitter-like colors
+        
         primary: "#1DA1F2",
         secondary: "#6C5CE7",
         "light-bg": "#F8F9FA",
@@ -20,7 +20,7 @@ export default {
         "dark-card": "#192734",
         "dark-hover": "#22303C",
         
-        // Shadcn-ui required colors
+        
         background: "hsl(var(--background))",
         foreground: "hsl(var(--foreground))",
         card: {
